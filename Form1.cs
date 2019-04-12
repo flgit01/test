@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-//using DevExpress.XtraTreeList.Nodes;
+ using DevExpress.XtraTreeList.Nodes;
 
 namespace treelist03
 {
@@ -41,7 +41,7 @@ namespace treelist03
              treeList1.DataSource = table;
              treeList1.KeyFieldName = "KeyFieldName";    
              treeList1.ParentFieldName = "ParentFieldName";
-            // treeList1.Columns["cityname"].Caption = "城市";
+              treeList1.Columns["cityname"].Caption = "城市";   
             // treeList1.OptionsView.ShowCheckBoxes = true;
              
  

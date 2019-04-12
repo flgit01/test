@@ -1,0 +1,11 @@
+D:\Visual Studio2010\shujudata\treelist03\treelist03\bin\Debug\treelist03.exe.config
+D:\Visual Studio2010\shujudata\treelist03\treelist03\bin\Debug\treelist03.exe
+D:\Visual Studio2010\shujudata\treelist03\treelist03\bin\Debug\treelist03.pdb
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\treelist03.Form1.resources
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\treelist03.Properties.Resources.resources
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\treelist03.exe.licenses
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\treelist03.exe
+D:\Visual Studio2010\shujudata\treelist03\treelist03\obj\x86\Debug\treelist03.pdb
